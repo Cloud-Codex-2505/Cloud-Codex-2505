@@ -1,16 +1,20 @@
-## Hi there 👋
+<div align="center">  
+	<img src="welcome-header.gif" alt="welcome to my github profile">
+	<br>
+	<br>
+</div>
+<div align="center">
+  <h1>
+    Hi, I'm Barbie Pal
+  </h1>
 
-<!--
-**Cloud-Codex-2505/Cloud-Codex-2505** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+  <img src="https://readme-typing-svg.demolab.com/?lines=Learning+Cloud+Computing;AIML+Enthusiast;&center=true&width=600&height=30" style="display:block; margin:auto;" />
+</div>
+<div align="right">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+  
+ <img src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" width="400">
+<br><br>
